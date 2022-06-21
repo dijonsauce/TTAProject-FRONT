@@ -7,6 +7,12 @@ Welcome to ENCORE, buy tickets to latest events & merch to show your love.
 This is the website for ENCORE. 
 It is designed to be responsive and accessible, making it easy to navigate for potential customers & partners. 
 
+
+features to consider:
+- Marketplace
+- SMS/Email service
+- Search bar/filter
+
 <h2 align="center"><img src="assets/docs/rwd-preview.png"></h2>
 
 ## User Experience (UX)
